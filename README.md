@@ -13,7 +13,7 @@ I bridge the gap between pixel-perfect design and scalable front-end architectur
 `Figma (Variables & Auto-layout)` `Design Systems` `Prototyping` `Miro` `Adobe CC`
 
 **Front-End & Code:**
-`HTML5` `CSS3` `JavaScript (Learning)` `Git` 
+`HTML5` `CSS3` `JavaScript` `React (Learning)` `Git` 
 
 **Product & Analytics:**
 `Agile / Jira` `A/B Testing` `User Research`
