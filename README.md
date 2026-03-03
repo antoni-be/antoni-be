@@ -1,4 +1,4 @@
-# Hello there, I'm Antoni 👋
+# Hey, I'm Antoni 👋
 
 ### Product Designer & Aspiring Design Engineer
 
@@ -32,10 +32,3 @@ I bridge the gap between pixel-perfect design and scalable front-end architectur
 I believe in data-driven design. In my recent roles, my architectural and UI decisions have directly contributed to:
 - **253% increase** in feature conversion through strategic UI redesigns.
 - **13% increase** in Total Time Spent via optimized interaction design.
-
----
-
-### 📫 Let's connect
-
-- **Resume:** [antonibelik.cv](https://antonibelik.cv)
-- **LinkedIn:** [in/antoni-belik](https://linkedin.com/in/antoni-belik)
