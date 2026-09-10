@@ -1,6 +1,7 @@
 # Hey, I'm Antoni 👋
 
-### Product Designer & Aspiring Design Engineer
+### Product Designer
+
 
 I bridge the gap between pixel-perfect design and scalable front-end architecture. My core focus is translating complex user needs into cohesive, accessible interfaces and robust component libraries. 
 
